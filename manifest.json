@@ -1,12 +1,12 @@
 {
-    "name": "sicherheitsgenie",
-    "short_name": "sicherheitsgenie",
+    "name": "SicherheitsGenie | Bleib sicher",
+    "short_name": "SicherheitsGenie | Bleib sicher",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "description": "Ein Serious-Game zur Förderung des IT-Sicherheitsbewusstseins von Mitarbeitenden in Unternehmen",
+    "orientation": "landscape-primary",
     "prefer_related_applications": false,
     "icons": [
         {
